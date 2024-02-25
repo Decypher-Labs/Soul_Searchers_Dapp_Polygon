@@ -35,8 +35,6 @@ Begin your journey by staking Soul Searchers NFTs and start accumulating points.
 
 ### Upgrading Art
 
-![Upgrading Art](public/2.png "Upgrade your NFT art")
-
 Use your points to select and apply art upgrades to your NFTs, enhancing their visual appeal and value.
 
 ### Customizing Names
